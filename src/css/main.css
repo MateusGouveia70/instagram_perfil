@@ -1,0 +1,88 @@
+body {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.conteiner {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    width: 60%;
+    height: 100vh;
+}
+
+
+.conteiner .continuar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    width: 50%;
+    min-height: 34rem;
+    
+}
+
+.conteiner .continuar .obter a img {
+    width: 150px;
+}
+
+.conteiner .continuar .entrar #logo {
+    width: 200px;
+
+}
+
+.conteiner .continuar .entrar {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 1.3rem 0;
+    border: 1px solid lightgrey;
+    margin-bottom: 10px;
+}
+
+.conteiner .continuar .entrar  #continuar {
+    background-color: #0095f6;
+    padding: 8px;
+    border-radius: 4px;
+    color:#ffff ;
+    
+}
+
+.conteiner .continuar .entrar p {
+    padding: 15px 0px 30px 0px;
+}
+
+.conteiner .continuar .trocar {
+    padding: 20px 0px 35px 0px;
+    width: 100%;
+    padding: 1.3rem 0;
+    border: 1px solid lightgrey;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+
+
+
+.conteiner .continuar .obter {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.conteiner .continuar .obter p {
+    padding: 15px 0px 20px 0px;
+}
+
+.conteiner .continuar .entrar #photo {
+    border-radius: 100px;
+    margin-bottom: 18px;
+}
+
