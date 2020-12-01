@@ -82,11 +82,7 @@ section .conteiner .box2 {
 
 }
 
-section .conteiner .box2 p {
-    display: flex;
-    align-items: center;
-    
-}
+
 section .conteiner .box2 p a {
     color: #0795F6;
 }
