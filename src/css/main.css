@@ -1,8 +1,6 @@
 section {
     width: 60%;
-    min-height: 100vh;
-    margin: 0px auto;
-    background-color: rgb(243, 243, 243);
+    margin: 32px auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,12 +14,13 @@ section .phone {
 
 section .conteiner {
     width: 402px;
-    height: 617px;
+    height: 506px;
 }
 
 section .conteiner .box1 #logo {
     height: auto;
     width: 175px;
+    
 }
 
 section .conteiner .box1 #perfil {
@@ -67,6 +66,7 @@ section .conteiner .box1 {
     border: 1px solid #dbdbdb;
     margin: 0px 0px 10px;
     padding: 10px 0px;
+    background-color: #ffffff;
     
 }
 
@@ -79,6 +79,7 @@ section .conteiner .box2 {
     border: 1px solid #dbdbdb;
     margin: 0px 0px 10px;
     padding: 10px 0px;
+    background-color: #ffffff;
 
 }
 
